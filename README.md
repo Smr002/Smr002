@@ -3,18 +3,13 @@
 
 👨‍💻 Explore my projects:
 
-<a href="https://akb-store.vercel.app/" target="_blank">AKB-Store</a>
-<a href="https://valor-real-estate.vercel.app/" target="_blank">Valor Real Estate</a>
-<a href="https://eco-energy.vercel.app/" target="_blank">Eco Energy</a>
-<a href="https://salon-arditi1.vercel.app/" target="_blank">Salon Arditi</a>
-<a href="https://template-online-shop.vercel.app/" target="_blank">Online Shop Template</a>
-<a href="https://github.com/Smr002/JEK_BookStore_Project" target="_blank">JEK-BookStore</a>
-<a href="https://github.com/Smr002/HermesTravelfinal" target="_blank">Hermes Travel</a>
-
-
-
-
-
+<a href="https://akb-store.vercel.app/" target="_blank">AKB-Store</a><br>
+<a href="https://valor-real-estate.vercel.app/" target="_blank">Valor Real Estate</a><br>
+<a href="https://eco-energy.vercel.app/" target="_blank">Eco Energy</a><br>
+<a href="https://salon-arditi1.vercel.app/" target="_blank">Salon Arditi</a><br>
+<a href="https://template-online-shop.vercel.app/" target="_blank">Online Shop Template</a><br>
+<a href="https://github.com/Smr002/JEK_BookStore_Project" target="_blank">JEK-BookStore</a><br>
+<a href="https://github.com/Smr002/HermesTravelfinal" target="_blank">Hermes Travel</a><br>
 
 💬 Let's talk about: Java, C, C++, HTML, CSS, JavaScript, Python, PHP, Laravel, MySQL, Node.js, Express.js
 

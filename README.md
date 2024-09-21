@@ -3,11 +3,19 @@
 
 👨‍💻 Explore my projects:
 
-AKB Store
-Valor Real Estate
-Eco Energy
-Salon Arditi
-Online Shop Template
+<a href="https://akb-store.vercel.app/" target="_blank">AKB-Store</a>
+<a href="https://valor-real-estate.vercel.app/" target="_blank">Valor Real Estate</a>
+<a href="https://eco-energy.vercel.app/" target="_blank">Eco Energy</a>
+<a href="https://salon-arditi1.vercel.app/" target="_blank">Salon Arditi</a>
+<a href="https://template-online-shop.vercel.app/" target="_blank">Online Shop Template</a>
+<a href="https://github.com/Smr002/JEK_BookStore_Project" target="_blank">JEK-BookStore</a>
+<a href="https://github.com/Smr002/HermesTravelfinal" target="_blank">Hermes Travel</a>
+
+
+
+
+
+
 💬 Let's talk about: Java, C, C++, HTML, CSS, JavaScript, Python, PHP, Laravel, MySQL, Node.js, Express.js
 
 📫 Reach me: opaloasis823@gmail.com or [https://al-mcmxii--kappa.vercel.app/](https://al-mcmxii--kappa.vercel.app/)

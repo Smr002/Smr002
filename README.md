@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smr002</h1> <h3 align="center">A passionate Software Engineer</h3>
-🌱 I’m currently programming:
+🌱 I’m currently programming: <br>
 <a href="https://github.com/Smr002/E-commerce-app" target="_blank">E-commerce-app</a><br>
-
+<br>
 
 👨‍💻 Explore my projects:
 

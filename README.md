@@ -13,6 +13,7 @@
 <a href="https://template-online-shop.vercel.app/" target="_blank">Online Shop Template</a><br>
 <a href="https://github.com/Smr002/JEK_BookStore_Project" target="_blank">JEK-BookStore</a><br>
 <a href="https://github.com/Smr002/HermesTravelfinal" target="_blank">Hermes Travel</a><br>
+<a href="https://github.com/Smr002/Deep-Learning" target="_blank">Predict Battery SoC Using Deep Learning</a><br>
 
 💬 Let's talk about: Java, C, C++, HTML, CSS, JavaScript, Python, PHP, Laravel, MySQL, Node.js, Express.js
 

@@ -16,7 +16,7 @@
 <a href="https://github.com/Smr002/Deep-Learning" target="_blank">Predict Battery SoC Using Deep Learning</a><br>
 <a href="https://weather-app-blue-mu-62.vercel.app/" target="_blank">WeatherApp</a><br>
 
-💬 Let's talk about: Java, C, C++, HTML, CSS, JavaScript, Python, PHP, Laravel, MySQL, Node.js, Express.js
+💬 Let's talk about: Java, C, C++, HTML, CSS, JavaScript, Python, PHP, Laravel, MySQL, Node.js, Express.js,Nest.js,MongoDB,React.js,Vue.js
 
 📫 Reach me: opaloasis823@gmail.com or  <a href="https://al-mcmxii--kappa.vercel.app/" target="_blank">AL-MCMXII</a><br>
 

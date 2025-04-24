@@ -7,7 +7,7 @@
 
 <a href="https://github.com/Smr002/AI-Project" target="_blank">Artificial Intelligence Project: Electric Vehicle Type Classification</a><br>
 <a href="https://github.com/Smr002/Bachelor-Thesis" target="_blank">AlgoLearn</a><br>
-<a href="https://github.com/Smr002/Group01_Airport_Management_Systemt" target="_blank">Airport Management System</a><br>
+<a href="https://github.com/Smr002/Group01_Airport_Management_System" target="_blank">Airport Management System</a><br>
 <a href="https://akb-store.vercel.app/" target="_blank">AKB-Store</a><br>
 <a href="https://hama-parfume.vercel.app/" target="_blank">Hama-Parfume-Shop</a><br>
 <a href="https://valor-real-estate.vercel.app/" target="_blank">Valor Real Estate</a><br>

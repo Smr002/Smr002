@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Smr002</h1> <h3 align="center">A Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 
-👨‍💻 Explore my projects:
+👨‍💻 Explore my personal projects:
 
 <a href="https://github.com/Smr002/AI-Project" target="_blank">Artificial Intelligence Project: Electric Vehicle Type Classification</a><br>
 <a href="https://github.com/Smr002/Bachelor-Thesis" target="_blank">AlgoLearn</a><br>

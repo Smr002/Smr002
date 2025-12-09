@@ -1,27 +1,96 @@
-<h3 align="center">Software Engineer</h3>
+# Hi there
+
+**Software Engineer at V.T**  
+**Boston, Massachusetts, USA**  
+Building secure, scalable backend systems • AI-powered workflows • DevOps automation • Modern full-stack experiences
+
+From healthcare claims processing (EDI/X12, SFTP encryption) to deep-learning battery models and real-time monorepos — I ship production-grade code that lasts
+
+<br>
+
+## Current Role
+**Software Engineer**  
+**V.T** • Boston, Massachusetts • *October 2024 – Present*
+
+- Designing and developing high-performance, scalable backend services using **Node.js, NestJS, TypeScript, Prisma**, and **PostgreSQL / MongoDB / MySQL**  
+- Architecting clean, maintainable systems with **Clean / Hexagonal Architecture** in large-scale TypeScript monorepos  
+- Building secure, automated data ingestion and file-processing pipelines (SFTP, encryption, validation, batch processing)  
+- Creating isolated, Dockerized execution environments and real-time processing systems  
+- Implementing real-time communication layers with **WebSocket / Socket.IO** and event-driven architectures  
+- Integrating and deploying **AI/ML models** into production services (model serving, inference APIs, preprocessing pipelines)  
+- Designing robust scheduled workflows and background job systems (cron, queue-based processing)  
+- Writing comprehensive test suites using **Jest, Supertest, and testing-library** (unit, integration, e2e)  
+- Owning DevOps practices: **Docker, CI/CD pipelines, monitoring, logging, and infrastructure security**
+
+<br>
+
+## Tech Stack & Tools
 
 
-• Explore my personal projects:
+Frontend              Backend                Databases              DevOps & Tools
+React • Next.js       Node.js • NestJS       PostgreSQL             Docker • Git • GitHub Actions
+Vue • Nuxt.js         Express • PHP          MongoDB                Prisma • Zod • JWT
+TailwindCSS           Laravel                MySQL                  Postman • Figma • Blender
+Zustand • Pinia       TypeScript                                    Swagger • JWT • OAuth
 
-<a href="https://github.com/Smr002/AI-Project" target="_blank">Artificial Intelligence Project: Electric Vehicle Type Classification</a><br>
-<a href="https://github.com/Smr002/Bachelor-Thesis" target="_blank">AlgoLearn</a><br>
-<a href="https://github.com/Smr002/Group01_Airport_Management_System" target="_blank">Airport Management System</a><br>
-<a href="https://nezamotion.com/" target="_blank">Neza Motion</a><br>
-<a href="https://shqip-scent.com/" target="_blank">ShqipScent</a><br>
-<a href="https://free-tour.vercel.app/" target="_blank">Free Walking Tour Gjirokastër | Albania Guided Tours</a><br>
-<a href="https://hama-parfume.vercel.app/" target="_blank">Hama-Parfume-Shop</a><br>
-<a href="https://akbstoreal.com/" target="_blank">AKB-Store</a><br>
-<a href="https://valor-real-estate.vercel.app/" target="_blank">Valor Real Estate</a><br>
-<a href="https://eco-energy.vercel.app/" target="_blank">Eco Energy</a><br>
-<a href="https://salon-arditi1.vercel.app/" target="_blank">Salon Arditi</a><br>
-<a href="https://template-online-shop.vercel.app/" target="_blank">Online Shop Template</a><br>
-<a href="https://github.com/Smr002/JEK_BookStore_Project" target="_blank">JEK-BookStore</a><br>
-<a href="https://github.com/Smr002/HermesTravelfinal" target="_blank">Hermes Travel</a><br>
-<a href="https://github.com/Smr002/Deep-Learning" target="_blank">Predict Battery SoC Using Deep Learning</a><br>
-<a href="https://weather-app-blue-mu-62.vercel.app/" target="_blank">WeatherApp</a><br>
 
-💬 Let's talk about: Java, C, C++, HTML, CSS, JavaScript, Python, PHP, Laravel, MySQL, Node.js, Express.js,Nest.js,MongoDB,React.js,Vue.js
+<br>
 
-📫 Reach me: opaloasis823@gmail.com or  <a href="https://al-mcmxii--kappa.vercel.app/" target="_blank">AL-MCMXII</a><br>
+## Featured Projects
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/kristi-samara-a6a408294" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+## Featured Projects
+
+| Project                          | Description                                                      | Tech Stack                               | Links                                                                  |
+|----------------------------------|------------------------------------------------------------------|------------------------------------------|------------------------------------------------------------------------|
+| **AlgoLearn**                    | Interactive algorithm learning platform with live code execution | React • Node.js • Docker • Monaco Editor | [GitHub](https://github.com/Smr002/Bachelor-Thesis)                    |
+| **EV Type Classification**       | AI model classifying electric vehicle types from images          | Python • TensorFlow • OpenCV             | [GitHub](https://github.com/Smr002/AI-Project)                         |
+| **Battery SoC Prediction**       | Deep learning (LSTM) for battery State-of-Charge prediction      | Python • Keras • Pandas                  | [GitHub](https://github.com/Smr002/Deep-Learning)                      |
+| **Neza Motion**                  | Modern fitness & personal coaching platform                      | Next.js • Tailwind • Framer Motion       | [Live](https://nezamotion.com/)                                        |
+| **ShqipScent**                   | Luxury perfume e-commerce store                                  | React.js • Node.js • Prisma              | [Live](https://shqip-scent.com/)                                       |
+| **Free Walking Tour Gjirokastër**| Guided tours platform for Albania                                | React.js • Tailwind                      | [Live](https://free-tour.vercel.app/)                                  |
+| **Hama Parfume Shop**            | Elegant fragrance online store                                   | Astro.js • Tailwind                      | [Live](https://hama-parfume.vercel.app/)                               |
+| **AKB Store**                    | Multi-vendor e-commerce platform                                 | React.js • Node.js • Prisma              | [Live](https://akbstoreal.com/)                                        |
+| **Valor Real Estate**            | Premium real estate showcase website                             | Next.js • Tailwind • GSAP                | [Live](https://valor-real-estate.vercel.app/)                          |
+| **Eco Energy**                   | Renewable energy solutions platform                              | Vue/Nuxt • Three.js • Tailwind           | [Live](https://eco-energy.vercel.app/)                                 |
+| **Salon Arditi**                 | Beauty salon booking & showcase                                  | Astro.js • Tailwind                      | [Live](https://salon-arditi1.vercel.app/)                              |
+| **JEK BookStore**                | Full-featured online bookstore (team project)                    | Java • Spring Boot • MySQL               | [GitHub](https://github.com/Smr002/JEK_BookStore_Project)              |
+| **Hermes Travel**                | Travel agency platform with booking system                       | PHP • Laravel • MySQL                    | [GitHub](https://github.com/Smr002/HermesTravelfinal)                  |  
+| **Airport Management System**    | Comprehensive airport operations system (team project)           | Documentation                            | [GitHub](https://github.com/Smr002/Group01_Airport_Management_System)  |
+
+[View all repositories →](https://github.com/Smr002?tab=repositories)
+
+[View all projects →](https://github.com/Smr002?tab=repositories)
+
+<br>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smr002&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Kristi's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smr002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smr002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
+
+## Let's Connect
+
+- **LinkedIn** → [linkedin.com/in/kristi-samara-a6a408294](https://www.linkedin.com/in/kristi-samara-a6a408294)
+- **Email** → opaloasis823@gmail.com
+- **Portfolio** → [al-mcmxii--kappa.vercel.app](https://al-mcmxii--kappa.vercel.app/)
+
+<br>
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Smr002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>

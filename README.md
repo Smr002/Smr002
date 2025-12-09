@@ -40,13 +40,13 @@
 | **AlgoLearn** | Interactive algorithm learning platform with live code execution | React • Node.js • Docker • Monaco Editor | [GitHub](https://github.com/Smr002/Bachelor-Thesis) |
 | **EV Type Classification** | Classifying electric vehicle types from images | Python • TensorFlow • OpenCV | [GitHub](https://github.com/Smr002/AI-Project) |
 | **Battery SoC Prediction** | Deep learning State-of-Charge estimation | Python • Keras • Pandas | [GitHub](https://github.com/Smr002/Deep-Learning) |
-| **Neza Motion** | Fitness & coaching platform | Next.js • Tailwind • Framer Motion | [Live](https://nezamotion.com/) |
+| **Neza Motion** | Marketing platform | Next.js • Tailwind • Framer Motion | [Live](https://nezamotion.com/) |
 | **ShqipScent** | Luxury fragrance e-commerce | React • Node.js • Prisma | [Live](https://shqip-scent.com/) |
 | **Free Walking Tour Gjirokastër** | Guided tours platform | React • Tailwind | [Live](https://free-tour.vercel.app/) |
 | **Hama Parfume Shop** | Online fragrance store | Astro • Tailwind | [Live](https://hama-parfume.vercel.app/) |
 | **AKB Store** | Multi-vendor e-commerce | React • Node.js • Prisma | [Live](https://akbstoreal.com/) |
-| **Valor Real Estate** | Premium real estate showcase | Next.js • Tailwind • GSAP | [Live](https://valor-real-estate.vercel.app/) |
-| **Eco Energy** | Renewable energy platform | Vue/Nuxt • Three.js • Tailwind | [Live](https://eco-energy.vercel.app/) |
+| **Valor Real Estate** | Premium real estate showcase | Astro.js • Tailwind  | [Live](https://valor-real-estate.vercel.app/) |
+| **Eco Energy** | Renewable energy platform | Astro • Tailwind | [Live](https://eco-energy.vercel.app/) |
 | **Salon Arditi** | Salon booking & promo | Astro • Tailwind | [Live](https://salon-arditi1.vercel.app/) |
 | **JEK BookStore** | Full-featured bookstore | Java • Spring Boot • MySQL | [GitHub](https://github.com/Smr002/JEK_BookStore_Project) |
 | **Hermes Travel** | Travel booking system | PHP • Laravel • MySQL | [GitHub](https://github.com/Smr002/HermesTravelfinal) |

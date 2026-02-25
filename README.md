@@ -59,8 +59,7 @@
 ## 🤝 Let’s Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/kristi-samara-a6a408294  
-- **Email:** opaloasis823@gmail.com  
-- **Portfolio:** https://al-mcmxii--kappa.vercel.app/
+- **Web:** https://web-wizz.vercel.app/
 
 ---
 

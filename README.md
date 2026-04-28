@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Current Role
 
-**Software Engineer — V.T**  
+**Software Engineer**  
 *Boston, Massachusetts • Oct 2024 – Present*
 
 - **Backend development:** Node.js, NestJS, TypeScript, Prisma  

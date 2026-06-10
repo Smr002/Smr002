@@ -40,6 +40,7 @@
 | **AlgoLearn** | Interactive algorithm learning platform with live code execution | React • Node.js • Docker • Monaco Editor | [GitHub](https://github.com/Smr002/Bachelor-Thesis) |
 | **EV Type Classification** | Classifying electric vehicle types from images | Python • TensorFlow • OpenCV | [GitHub](https://github.com/Smr002/AI-Project) |
 | **Battery SoC Prediction** | Deep learning State-of-Charge estimation | Python • Keras • Pandas | [GitHub](https://github.com/Smr002/Deep-Learning) |
+| **Room Craft** | 3D Blender | Nuxt.js • TresJS • Tailwind • Pinia • GSAP | [Live]([https://github.com/Smr002/Deep-Learning](https://room-craft-sigma.vercel.app/)) |
 | **Neza Motion** | Marketing platform | Next.js • Tailwind • Framer Motion | [Live](https://nezamotion.com/) |
 | **ShqipScent** | Luxury fragrance e-commerce | React • Node.js • Prisma | [Live](https://shqip-scent.com/) |
 | **Free Walking Tour Gjirokastër** | Guided tours platform | React • Tailwind | [Live](https://free-tour.vercel.app/) |

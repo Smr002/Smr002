@@ -4,7 +4,7 @@
 **Boston, Massachusetts, USA**  
 *Building secure, scalable backend systems • AI-powered workflows • DevOps automation • Modern full-stack experiences*
 
-> From healthcare claims processing (EDI/X12, SFTP encryption) to deep-learning battery models and real-time monorepos — I ship production-grade code that lasts.
+> From insurance claims processing (EDI/X12, SFTP encryption) to deep-learning battery models and real-time monorepos — I ship production-grade code that lasts.
 
 ---
 

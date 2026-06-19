@@ -14,7 +14,6 @@ I'm a **Software Engineer at Administrative Claim Services** (Boston, MA) — bu
 
 Outside of work, I ship creative web experiences — 3D cinematic sites, luxury e-commerce, tour platforms, and multi-language chat applications — mostly for clients and businesses I care about.
 
-- 🔭 Currently working on **claims automation with NestJS + AI**
 - 🌍 Based in **Tirana, Albania** · Working remotely for US clients
 - 🔐 Security-first mindset — pen testing, OWASP, hardened PHP/Node stacks
 - 💬 Built a **real-time multi-language chat app** (WebSockets, NLP translation, multi-locale support)
